@@ -7,10 +7,11 @@ The objective of this project is to analyze Flipkart’s sales data to understan
 
 ##  Tech Stack
 The dashboard was built using the following tools and technologies:
-📊 Power BI Desktop – Main data visualization platform for dashboard creation.
-📂 Power Query – Used for cleaning, transformation and data preparation.
-🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic
-📝 Data Modeling – Established relationships among sales, customers, products and orders for interactive filtering.
-📁 File Format – .pbix for dashboard development, .xlsx for dataset, .png for dashboard preview screenshots.
+1) 📊 Power BI Desktop – Main data visualization platform for dashboard creation.
+2) 📂 Power Query – Used for cleaning, transformation and data preparation.
+3) 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic
+4) 📝 Data Modeling – Established relationships among sales, customers, products and orders for interactive filtering.
+5) 📁 File Format – .pbix for dashboard development, .xlsx for dataset, .png for dashboard preview screenshots.
 
 ## Dataset Used 
+- <a https://github.com/ApoorveChauhan/Flipkart-Sales-Analysis-Dashboard/blob/main/Flipkart%20Sales%20Dataset%20(Raw%20Data).xlsx>Dataset</a>
