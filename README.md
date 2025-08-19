@@ -19,31 +19,40 @@ The dashboard was built using the following tools and technologies:
 ## Project Highlights 
 ### Business Problem
 E-commerce companies like Flipkart generate massive sales data daily. However, raw data does not provide direct answers to business-critical questions such as:
-•	Which age group and gender contributes the most sales?
-•	Which categories and sub categories generates the highest revenue?
-•	What is the impact of returns and delayed deliveries on performance?
-•	Which delivery type are most preferred by customers?
-•	Which regions/cities are the strongest contributors to sales?
+1) Which age group and gender contributes the most sales?
+2) Which categories and sub categories generates the highest revenue and sales?
+3) What is the impact of returns and delayed deliveries on performance?
+4) Which delivery type are most preferred by customers?
+5) Which regions/cities are the strongest contributors to sales?
 ### Goal of the Dashboard
 To deliver an interactive analytical tool that:
-•	Tracks sales and revenue trends across categories and time.
-•	Provides insights into customer demographics and behavior.
-•	Highlights return and delivery issues for operational improvements.
-•	Supports strategic decisions such as inventory planning, targeted marketing, and regional focus.
+1) Tracks sales and revenue trends across categories and time.
+2) Provides insights into customer demographics and behavior.
+3) Highlights return and delivery issues for operational improvements.
+4) Supports strategic decisions such as inventory planning, targeted marketing and regional focus.
 ### Walkthrough of Key Visuals
 #### 📌 Overview Dashboard
-•	KPIs: Total Sales, Orders, Profit %, Return %
-•	Sales Trends (Line Chart): Monthly/Quarterly sales growth
-•	Sales by State (Map): Regional contribution analysis
+1) KPIs: Total Sales, Revenue, Orders, Profit and Profit margin.
+2) Monthly Orders Trends (Stacked Area Chart): Monthly orders by year over year.
+3) Monthly Revenue and Profit (Ribbon Chart): Displays monthly revenue and profit.
+4) Top and bottom products (stacked Bar chart) : Displays top and bottom 5 products by sales.
 #### 📌 Sales Analysis Dashboard
-•	Top Products (Bar Chart): Best-selling products by revenue
-•	Category & Sub-category (Tree Map/Bar Chart): Contribution of product segments
-•	Seasonality (Line Chart): Festive sales spikes (Diwali, Christmas)
+1) Sales By Category (Card): Highest and lowest sales category.
+2) Category & Sub-category (Stacked Column Chart): Sales by category and sub category.
+3) Monthly sales (Line Chart): Displays monthly sales.
+4) Delivery Type (Donut Chart) : Displays sales by delivery type.
 #### 📌 Customer Insights Dashboard
-•	Age Group Distribution (Bar Chart): Highest sales from 25–34 group
-•	Gender-based Purchases (Pie/Bar): Comparison of male vs. female buyers
-•	Payment Method Analysis (Donut Chart): COD vs. digital payments
+1) Age Group and Gender based purchases (Stacked Area Chart): Sales by age group and gender.
+2) Gender based sales (pie chart): Sales by gender
+3) Age group analysis (Card): Highest and lowest sales age group.
+4) Age group and gender based orders (Clustered Column Chart): Total orders quantity by age group and gender.
 #### 📌 Returns & Delivery Performance Dashboard
-•	Return % by Category (Bar Chart): Fashion items show highest returns
-•	Delivery Delays (Stacked Column): Delays more frequent in Tier-2 cities
-•	Delivery Time Analysis (Histogram): Average delivery window performance
+1) Returns by regions (map): Total returns by region.
+2) Delivery analysis (Stacked Area Chart): Total orders delivered and returned by month.
+3) KPIs: Total on time deliveries, Total late deliveries, Average rating, Average delivery days and Return rate %. 
+
+### Business Impact & Insights
+1)  30-40 age group drives the largest share of sales, especially in Health and Beauty.
+3)  Health and beauty category shows maximum returns of orders (missing item part issues).
+4)  Tier-1 cities generate most revenue, but Tier-2 cities are an emerging market.
+6)  Delivery delays in certain regions highlight the need for logistics optimization.
