@@ -51,7 +51,7 @@ To deliver an interactive analytical tool that:
 2) Delivery analysis (Stacked Area Chart): Total orders delivered and returned by month.
 3) KPIs: Total on time deliveries, Total late deliveries, Average rating, Average delivery days and Return rate %. 
 
-### Business Impact & Insights
+### Insights Generated 
 1)  30-40 age group drives the largest share of sales, especially in Health and Beauty.
 3)  Health and beauty category shows maximum returns of orders (missing item part issues).
 4)  Tier-1 cities generate most revenue, but Tier-2 cities are an emerging market.
