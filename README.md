@@ -53,28 +53,29 @@ To deliver an interactive analytical tool that:
 
 ### Insights Generated 
 1) Customers in the 30–40 age group contribute the most sales (mainly in Health & Beauty), while the 80+ group contributes the least.
+
 👉 Focus marketing campaigns and product promotions on the 30–40 age group to boost sales, while exploring ways to engage older customers with tailored products.
-2) Health & Beauty has the highest number of returns, mostly due to missing items.
+3) Health & Beauty has the highest number of returns, mostly due to missing items.
 👉 Improve quality checks and packaging in this category to reduce return rates and increase customer satisfaction.
-3) Sales peaked in May 2020 and were lowest in February 2019.
+4) Sales peaked in May 2020 and were lowest in February 2019.
 👉 Plan seasonal promotions during high-demand months and create strategies to drive sales in traditionally low-performing months.
-4) Greater Accra generated the highest revenue, while Oyarifa recorded the lowest.
+5) Greater Accra generated the highest revenue, while Oyarifa recorded the lowest.
 👉 Invest more in logistics and promotions in Oyarifa and other low-performing regions to improve sales coverage.
-5) Best-selling product: Avon Soft Musk Eau de Toilette Spray – 50ml. Least-selling product: Canon EOS 60D DSLR Bundle.
+6) Best-selling product: Avon Soft Musk Eau de Toilette Spray – 50ml. Least-selling product: Canon EOS 60D DSLR Bundle.
 👉 Keep sufficient stock of high-demand products like Avon and reduce or replace underperforming products such as the Canon DSLR.
-6) Health & Beauty is the highest-selling category, while Electronics has the lowest sales.
+7) Health & Beauty is the highest-selling category, while Electronics has the lowest sales.
 👉 Continue strengthening Health & Beauty promotions while analyzing reasons for weak sales in Electronics to reposition or market better.
-7) Standard Delivery generated the maximum sales.
+8) Standard Delivery generated the maximum sales.
 👉 Maintain reliable Standard Delivery services and consider incentivizing premium delivery options to increase adoption.
-8) 82% of customers are repeat buyers, 18% are new customers.
+9) 82% of customers are repeat buyers, 18% are new customers.
 👉 High retention is good, but marketing strategies should focus on acquiring more new customers to expand the customer base.
-9) Male customers generated 52% of sales, females 48%.
+10) Male customers generated 52% of sales, females 48%.
 👉 Both genders are almost equally contributing, so balanced marketing targeting both male and female customers is essential.
-10) 27% of total orders were returned.
+11) 27% of total orders were returned.
 👉 A high return rate indicates potential issues in product quality, descriptions, or logistics—improving these can directly reduce losses.
-11) Most orders were shipped from abroad.
+12) Most orders were shipped from abroad.
 👉 Explore opportunities to stock more items locally to reduce delivery time and increase customer satisfaction.
-12) Health & Beauty shows the maximum product returns.
+13) Health & Beauty shows the maximum product returns.
 👉 Reinforce stricter supplier checks, ensure proper packaging, and improve product accuracy in listings to minimize repeat issues in this category.
 
 ## 6) Screen Recording of Dashboard
