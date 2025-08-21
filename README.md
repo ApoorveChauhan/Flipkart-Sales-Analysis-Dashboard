@@ -53,7 +53,6 @@ To deliver an interactive analytical tool that:
 
 ### Insights Generated 
 1) Customers in the 30–40 age group contribute the most sales (mainly in Health & Beauty), while the 80+ group contributes the least.
-
 👉 Focus marketing campaigns and product promotions on the 30–40 age group to boost sales, while exploring ways to engage older customers with tailored products.
 3) Health & Beauty has the highest number of returns, mostly due to missing items.
 👉 Improve quality checks and packaging in this category to reduce return rates and increase customer satisfaction.
