@@ -59,5 +59,4 @@ To deliver an interactive analytical tool that:
 
 ## 6) Screen Recording of Dashboard
 - <a href="https://github.com/ApoorveChauhan/Flipkart-Sales-Analysis-Dashboard/blob/main/Screen%20Recording%20of%20Dashboard%20(Flipkart%20Sales%20Analysis).mp4">Click Here</a>4
-- 
 
