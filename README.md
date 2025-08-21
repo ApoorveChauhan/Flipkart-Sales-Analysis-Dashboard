@@ -58,9 +58,5 @@ To deliver an interactive analytical tool that:
 6)  Delivery delays in certain regions highlight the need for logistics optimization.
 
 ## 6) Screen Recording of Dashboard
-- <a href="https://github.com/ApoorveChauhan/Flipkart-Sales-Analysis-Dashboard/blob/main/Screen%20Recording%20of%20Dashboard%20(Flipkart%20Sales%20Analysis).mp4">Click Here</a>4
-
-
-
 https://github.com/user-attachments/assets/c9c79b83-2aee-4c9d-ad3b-b46d1990d581
 
