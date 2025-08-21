@@ -1,11 +1,11 @@
 # Flipkart Sales Analysis Dashboard
-##1) Project Description 
+## 1) Project Description 
 The Flipkart Sales Dashboard is designed to turn raw e-commerce data into clear, interactive visuals that shows sales performance, customer insights, product trends, returns and delivery performance.The dashboard focuses on highlighting overall sales trends, customer demographics, top-performing categories and sub-categories, preferred delivery type, return patterns and delivery performance to provide a complete view of business operations and growth opportunities which helps the company’s managers and analysts quickly understand business performance, identify problem areas and make data-driven decisions for improving growth,sales and customer satisfaction.
 
-##2) Project Objective 
+## 2) Project Objective 
 The objective of this project is to analyze Flipkart’s sales data to understand sales trends, customer behavior, product performance, returns and delivery efficiency and present insights through interactive Power BI dashboards.
 
-##3) Tech Stack
+## 3) Tech Stack
 The dashboard was built using the following tools and technologies:
 1) 📊 Power BI Desktop – Main data visualization platform for dashboard creation.
 2) 📂 Power Query – Used for cleaning, transformation and data preparation.
@@ -13,10 +13,10 @@ The dashboard was built using the following tools and technologies:
 4) 📝 Data Modeling – Established relationships among sales, customers, products and orders for interactive filtering.
 5) 📁 File Format – .pbix for dashboard development, .xlsx for dataset, .png for dashboard preview screenshots.
 
-##4) Dataset Used 
+## 4) Dataset Used 
 - <a href="https://github.com/ApoorveChauhan/Flipkart-Sales-Analysis-Dashboard/blob/main/Flipkart%20Sales%20Dataset%20(Raw%20Data).xlsx">Flipkart Sales Raw Dataset</a>
 
-##5) Project Highlights
+## 5) Project Highlights
 ### Business Problem
 E-commerce companies like Flipkart generate massive sales data daily. However, raw data does not provide direct answers to business-critical questions such as:
 1) Which age group and gender contributes the most sales?
@@ -57,6 +57,7 @@ To deliver an interactive analytical tool that:
 4)  Tier-1 cities generate most revenue, but Tier-2 cities are an emerging market.
 6)  Delivery delays in certain regions highlight the need for logistics optimization.
 
-###6) Screen Recording of Dashboard
-
+## 6) Screen Recording of Dashboard
+- <a href="https://github.com/ApoorveChauhan/Flipkart-Sales-Analysis-Dashboard/blob/main/Screen%20Recording%20of%20Dashboard%20(Flipkart%20Sales%20Analysis).mp4">Click Here</a>4
+- 
 
